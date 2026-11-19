@@ -54,3 +54,27 @@ actually test better.
 8. Structuring of a Bug Report
 
 9. Tools to assist you.
+10. Bug Advocacy cheatsheet
+
+```txt
+Next, we will dive into the structuring of a bug report. We
+will provide examples of effective bug reports and discuss
+what makes them
+
+so good, so effective, so well organized. And in the end we
+will discuss some tools that can assist you in your bug
+advocacy as well as bug reporting
+
+process. I mean, there are a lot of tools out there how to
+use them effectively to organize your information and to
+
+communicate them. That's something that comes with
+experience with practice and we will cover that and finally
+we will provide you with a
+
+bug advocacy cheat sheet that summarizes all these key
+Concepts and strategies covered throughout this course,
+so, that's all.
+```
+
+![alt text](image.png)
