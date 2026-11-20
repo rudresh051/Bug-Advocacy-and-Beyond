@@ -328,7 +328,11 @@ can mark the book as inconsistent assigned
 to your own self. You can add more test notes
 observation on that report till you find enough
 evidence and then assign it to a developer so in
-case wehre you feel that a developer can assist you.
+case where you feel that a developer can assist you.
+It's also better option to ask them for a clue or help in many cases
+
+You will find that what can take you an hour to debug your developer many
+essentially tell you in 5 minutes or 10 minutes
 ```
 
 ![alt text](image-19.png)
