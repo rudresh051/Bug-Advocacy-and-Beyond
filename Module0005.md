@@ -32,3 +32,12 @@
 
 ## Level 4: Reporting with Advocacy & Investigation
 
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+## Level 5 : Contextual Reporting
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
